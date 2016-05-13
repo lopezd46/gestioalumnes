@@ -1,2 +1,1 @@
 # gestioalumnes
-practica raimon

@@ -1,0 +1,12 @@
+<?php
+class MMostrarAlumnes{
+	vectorAlumnes
+		
+	constr){
+		inicialitzar vector dades
+	}
+	
+	public function donaLlistaAlumnes(){
+		
+	} 
+}
